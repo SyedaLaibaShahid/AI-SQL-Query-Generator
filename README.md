@@ -1,1 +1,1 @@
-AI-SQL-Query-Generator
+# AI-SQL-Query-Generator
